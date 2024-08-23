@@ -1,0 +1,1 @@
+export const urlCurrency = `https://api.frankfurter.app/`
